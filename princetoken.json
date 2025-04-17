@@ -1,0 +1,8 @@
+{
+  "name": "PrinceToken",
+  "symbol": "PRINCE",
+  "address": "0x0bF23646dA928398D6Cb28a71D464722BA0A7EB3",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/PrinceToken/token-list/main/assets/0x0bF23646dA928398D6Cb28a71D464722BA0A7EB3.png"
+}
